@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">@color/MediumPurple</color>
+
+
+    <color name="Lavender">#E6E6FA</color>
+    <color name="Thistle">#D8BFD8</color>
+    <color name="Plum">#DDA0DD</color>
+    <color name="Violet">#EE82EE</color>
+    <color name="Orchid">#DA70D6</color>
+    <color name="Fuchsia">#FF00FF</color>
+    <color name="MediumOrchid">#BA55D3</color>
+    <color name="MediumPurple">#9370DB</color>
+    <color name="BlueViolet">#8A2BE2</color>
+    <color name="DarkViolet">#9400D3</color>
+    <color name="DarkOrchid">#9932CC</color>
+    <color name="DarkMagenta">#8B008B</color>
+    <color name="Purple">#800080</color>
+    <color name="Indigo">#4B0082</color>
+    <color name="SlateBlue">#6A5ACD</color>
+    <color name="DarkSlateBlue">#483D8B</color>
+
+
+</resources>
